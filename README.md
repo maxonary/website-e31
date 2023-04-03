@@ -1,2 +1,2 @@
-# website-r-nold.eu
-Personal Website owned by Maximilian Arnold
+# website-31
+Website on e31 created by Leonard Arnold
